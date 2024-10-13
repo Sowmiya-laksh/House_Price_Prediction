@@ -38,3 +38,5 @@ Hyperparameter tuning to optimize the machine learning models.
 ### Practice Skills
 Creative feature engineering
 Regression techniques like Random Forest and Gradient Boosting.
+### Conclusion
+This project built a machine learning model to predict house prices. After data preprocessing, EDA, and model testing, Random Forest and Gradient Boosting emerged as top performers. Key factors like overall quality and living area had a strong impact on prices. Future work can involve further tuning for improved accuracy.
